@@ -1,4 +1,0 @@
-import OpenAI
-import maplotlib
-
-print("Fuck it")
